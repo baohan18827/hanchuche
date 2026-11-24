@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Chạy chương trình Quản lý Thư viện (qly.exe)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}\\qly.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "preLaunchTask": "C/C++: g++.exe build project"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+S001|Giáo trình Cấu trúc Dữ liệu|Nguyễn Viết Hưng|NXB ĐHSP TP.HCM|85000|2022|280|01/09/2025|1
+S002|Giáo trình Lập trình Hướng đối tượng|Nguyễn Viết Hưng|NXB ĐHSP TP.HCM|95000|2024|310|01/09/2025|0
+S003|Giáo trình Cơ sở dữ liệu|Trần Sơn Hải|NXB ĐHSP TP.HCM|90000|2023|295|15/09/2025|0
+S004|Giáo trình Công nghệ Phần mềm|Ngô Quốc Việt|NXB ĐHSP TP.HCM|88000|2022|265|20/09/2025|0
+S005|Mắt Biếc|Nguyễn Nhật Ánh|NXB Trẻ|110000|2021|298|05/10/2025|3
+S006|Dế Mèn phiêu lưu ký|Tô Hoài|NXB Kim Đồng|50000|2020|192|10/10/2025|0
+S007|Nhà Giả Kim|Paulo Coelho|NXB Hội Nhà Văn|95000|2020|228|12/10/2025|0
+S008|Cây Cam Ngọt Của Tôi|José Mauro de Vasconcelos|NXB Hội Nhà Văn|125000|2020|244|20/10/2025|5
+S009|Đắc Nhân Tâm|Dale Carnegie|NXB Tổng Hợp|86000|2021|320|25/10/2025|0
+S010|Hoàng Tử Bé|Antoine de Saint-Exupéry|NXB Kim Đồng|35000|2022|112|01/11/2025|7
+S011|Số Đỏ|Vũ Trọng Phụng|NXB Văn Học|85000|2019|256|05/11/2025|0
+S012|Tuổi Trẻ Đáng Giá Bao Nhiêu|Rosie Nguyễn|NXB Hội Nhà Văn|145000|2023|285|10/11/2025|0
